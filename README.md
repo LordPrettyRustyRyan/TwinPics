@@ -2,7 +2,8 @@
 Find your twin images – simple, fast, and lightweight.
 
 <img width="940" height="588" alt="folder picker" src="https://github.com/user-attachments/assets/87e7eb41-dabf-4f16-8f0f-c0bb760d7943" />
-<img width="4400" height="2475" alt="result popup" src="https://github.com/user-attachments/assets/d61475b5-333e-43b7-a538-2bccd1d94a5a" />
+<img width="1185" height="847" alt="Screenshot 2025-12-27 162451" src="https://github.com/user-attachments/assets/e62e68ab-47e9-4f48-9410-dc9a2eb7d190" />
+<img width="1920" height="1018" alt="Screenshot (1914)" src="https://github.com/user-attachments/assets/fd8e4b05-319a-4f63-aebf-710d9a6ac797" />
 
 ---
 
