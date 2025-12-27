@@ -8,13 +8,22 @@ Find your twin images – simple, fast, and lightweight.
 ---
 
 ## What is TwinPics?
-TwinPics hunts down **duplicate images** in a folder and shows you which ones are basically evil twins.  
+TwinPics is a Python tool which hunts down **duplicate images** from a selected folder and shows you which ones are basically evil twins.  
 No Python needed if you just grab the `.exe` from [Releases](../../releases](https://github.com/LordPrettyRustyRyan/TwinPics/releases/tag/v1.0.0)).
 
+## Features:
+- One-click folder Selection and Scans.  
+- Finds duplicate images using smart hash comparisons.  
+- Lists duplicates so you can delete them.  
 - Lightweight  
 - Works on JPG, JPEG, PNG  
-- One-click folder picker  
-- Saves your disk space  
+- Saves your disk space
+
+## Libraries Used
+- Pillow
+- Tkinter
+- os
+- hashlib
 
 ---
 
