@@ -2,7 +2,12 @@
 Find duplicates of images – simple, fast, and lightweight.
 
 TwinPics is a Python tool which hunts down **duplicate images** from a selected folder and shows you which ones are basically evil twins.  
-No Python needed if you just grab the `.exe` from [Releases](../../releases](https://github.com/LordPrettyRustyRyan/TwinPics/releases/tag/v2.0.0)).
+No Python needed if you just grab the `.exe` from [Releases]((https://github.com/LordPrettyRustyRyan/TwinPics/releases/tag/v2.0.0)).
+
+## Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
+![Pillow](https://img.shields.io/badge/Pillow-8A2BE2?style=for-the-badge)
 
 ## Features:
 - One-click folder Selection and Scans.
@@ -13,13 +18,8 @@ No Python needed if you just grab the `.exe` from [Releases](../../releases](htt
 - Works on JPG, JPEG, PNG
 - Saves your disk space
 
-## Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
-![Pillow](https://img.shields.io/badge/Pillow-8A2BE2?style=for-the-badge)
-
 ## Download
-[Get TwinPics.v2.exe here]([../../releases/latest](https://github.com/LordPrettyRustyRyan/TwinPics/releases/download/v2.0.0/TwinPics.v2.exe))  
+[Get TwinPics.v2.exe here]((https://github.com/LordPrettyRustyRyan/TwinPics/releases/download/v2.0.0/TwinPics.v2.exe))  
 
 ---
 
@@ -31,7 +31,7 @@ No Python needed if you just grab the `.exe` from [Releases](../../releases](htt
 
 ## Usage
 ### Option A: Use the `.exe`
-1. Download **TwinPics.v2.exe** from [Releases](../../releases](https://github.com/LordPrettyRustyRyan/TwinPics/releases/tag/v2.0.0)).
+1. Download **TwinPics.v2.exe** from [Releases]((https://github.com/LordPrettyRustyRyan/TwinPics/releases/tag/v2.0.0)).
 2. Run it.  
 3. Pick a folder → boom, twins exposed.  
 
