@@ -1,12 +1,12 @@
-# TwinPics  
+# Replica  
 Find duplicates of images – simple, fast, and lightweight.
 
-TwinPics is a Python tool which hunts down **duplicate images** from a selected folder and shows you which ones are basically evil twins.  
-No Python needed if you just grab the `.exe` from [Releases](https://github.com/LordPrettyRustyRyan/TwinPics/releases/tag/v2.0.0).
+Replica is a desktop-based Python tool which hunts down duplicate images from a selected folder, and subfolders in it and shows you which one of your images got evil twins.
+Just grab the `.exe` from [Releases](https://github.com/LordPrettyRustyRyan/TwinPics/releases/tag/v2.0.0).
 
 ## Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-FF6F00?style=for-the-badge)
 ![Pillow](https://img.shields.io/badge/Pillow-8A2BE2?style=for-the-badge)
 
 ## Features:
