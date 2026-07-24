@@ -1,5 +1,3 @@
-# UI Improvement - BROKEN
-
 import os
 import hashlib
 import customtkinter as ctk
